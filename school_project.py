@@ -5,7 +5,7 @@ word4 = "no"
 word5 = "play"
 word6 = "makes"
 word7 = "Jack"
-word8 = "a"
+word8 = "a"  
 word9 = "dull"
 word10 = "boy"
 
@@ -28,7 +28,7 @@ t = int(input("Enter the number of years: "))
 A = P * (1 + r/n) ** (n * t)
 print(f"Final amount after {t} years: ${A:.2f}")
 
-print("\n--- Modulus Operator Examples ---")
+print("\n--- Modulus Operator Examplesss ---")
 print(f"5 % 2 = {5 % 2}")
 print(f"9 % 5 = {9 % 5}")
 print(f"15 % 12 = {15 % 12}")
